@@ -1,0 +1,26 @@
+.primary{
+    color: skyblue;
+    font-weight: 900;
+}
+
+strong:hover{
+    cursor: pointer;
+margin: 2px;
+}
+
+.Button{
+    background: skyblue;
+    border: none;
+    border-radius: 30px;
+    padding-left:30px;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+
+.Button:hover{
+    background: rgb(99, 150, 170);
+    padding-left: 40px;
+    padding-right: 40px;
+    
+
+}

@@ -1,0 +1,35 @@
+.nav-body{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+   
+}
+
+
+i{
+    color:black;
+    font-size: x-large;
+    
+    margin:20px;
+    cursor: pointer;
+    
+}
+
+i:hover{
+    color:rgb(89, 140, 160);
+  
+
+}
+
+body::-webkit-scrollbar, html::-webkit-scrollbar{
+    display: none
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
